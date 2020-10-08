@@ -1,0 +1,9 @@
+653eaf39951682caa5c2172b680bbc73859a132982e4092103a6837567cf47ce
+6b3f80acdf3012c0b6eb6af3e4af4f8ea60daf8bda5c9929f7e3053419b26a9f
+fb6c24f73775db248d710b3910b21f01d7b86b5c951b87c61c8dcdd77f69336d
+
+truffle console
+socialNetwork = await SocialNetwork.deployed()
+socialNetwork
+await socialNetwork.createPost('this is my first post')
+
